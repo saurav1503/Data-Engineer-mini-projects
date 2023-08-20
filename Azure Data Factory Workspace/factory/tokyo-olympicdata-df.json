@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympicdata-df",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7df53425-475f-42a8-8ac7-e6506a05787e",
+		"tenantId": "b4509d8f-fa81-49c0-ae00-12125a263090"
+	}
+}
