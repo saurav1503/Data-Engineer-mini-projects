@@ -2,7 +2,6 @@ import smtplib
 import datetime as dt
 import random
 
-# psw:"habawojzognwnwol"
 MY_EMAIL = input("Email:")
 MY_PASSWORD = input("password:")
 
